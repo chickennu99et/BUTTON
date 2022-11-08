@@ -1,0 +1,11 @@
+<html>
+<body>
+<h2>fwiend butt</h2>
+<button onclick="technobladeneverdie()">8008</button>
+<script>
+function technobladeneverdies() {
+alert("dream bad")
+}
+</script>
+</body>
+</html>
