@@ -21,3 +21,15 @@ alert("sup bro?")
 </script>
 </body>
 </html>
+
+<html>
+<body>
+<h1>supersizer totaly not going to rickroll</h1>
+<button onclick="olo()">stuipidity test</button>
+<script>
+function olo() {
+alert("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+}
+</script>
+</body>
+</html>
