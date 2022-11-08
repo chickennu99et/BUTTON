@@ -1,11 +1,1 @@
-<html>
-<body>
-<h2>another one</h2>
-<button onclick="sup()">sup</button>
-<script>
-function sup() {
-alert("sup bro?")
-}
-</script>
-</body>
-</html>
+
